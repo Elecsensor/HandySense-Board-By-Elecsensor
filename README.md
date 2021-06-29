@@ -14,7 +14,8 @@ HandySense คือ ระบบอุปกรณ์ IOT สำหรับเ
      
      1.4 มี LED แสดงสถานะ wifi ในบอร์ด
 
-
+- 📫 สั่งซื้อ HandySense Board : ...
+[HandySense Board Link](http://www.elecsensor.com/)
 
 
 ![hds-logo_0](https://github.com/Elecsensor/Elecsensor/blob/main/HandySense_%E0%B9%92%E0%B9%91%E0%B9%90%E0%B9%96%E0%B9%92%E0%B9%99_1.jpg)
