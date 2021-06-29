@@ -17,6 +17,7 @@ HandySense คือ ระบบอุปกรณ์ IOT สำหรับเ
 - 📫 สั่งซื้อ HandySense Board : ...
 [HandySense Board Link](http://www.elecsensor.com/)
 
+![hds-logo_0](https://github.com/Elecsensor/Elecsensor/blob/main/%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94.PNG)
 
 ![hds-logo_0](https://github.com/Elecsensor/Elecsensor/blob/main/HandySense_%E0%B9%92%E0%B9%91%E0%B9%90%E0%B9%96%E0%B9%92%E0%B9%99_1.jpg)
 
